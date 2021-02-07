@@ -14,3 +14,4 @@ console.log(idadeSomada)
 typeof idade
 
 console.log(typeof(idade))
+console.log('Olá mundo')
